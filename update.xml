@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Manifest version="2">
+  <CheckInterval>900</CheckInterval>
+  <RemoteConfigUri>https://github.com/dakolben/downloadTest/blob/main/downloadTest.zip?raw=true</RemoteConfigUri>
+  <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
+  <BaseUri>https://github.com/dakolben/downloadTest/blob/main/</BaseUri>
+  <Payload>downloadTest.zip</Payload>
+</Manifest>
